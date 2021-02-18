@@ -22,6 +22,8 @@ you can install them with:
 pip3 install BeautifulSoup4
 pip3 install ebooklib
 ```
+For converting epub to mobi, you need to install calibre:
+[Download for Linux](https://calibre-ebook.com/download_linux)
 
 ## Running it
 
