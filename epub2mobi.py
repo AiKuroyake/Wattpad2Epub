@@ -1,7 +1,9 @@
 #!/usr/bin/python
+
 # Python script to convert epub format to mobi
 # wrote by kovidgoyal https://www.mobileread.com/forums/showthread.php?t=179686
 # Can process more than 1 book per time
+
 import os, time, glob, subprocess
 
 files = glob.glob('*.epub')
